@@ -31,15 +31,15 @@ Replace the single `output: html_document` line in the YAML header above with th
 Write the group members as an **ordered list** (Chapter 5, *Lists*). For each member give the **name in bold**, then the student number, and then a **sub-item** containing a clickable **link** to that member's GitHub repository, written with Markdown link syntax (Chapter 5, *Links*).
 
 1. **Abby Duggan** — 20399492
-    + [BIOL343_CC](https://github.com/abbyleeduggan/BIOL343_CC2)
+    + [BIOL343_CC2](https://github.com/abbyleeduggan/BIOL343_CC2)
 1. **Rebecca Burns** — 20403917
-    + [BIOL343_CC](https://github.com/CHANGE/BIOL343_CC2)
+    + [BIOL343_CC2](https://github.com/R-Burns2005/BIOL343_CC)
 1.  **Eva Campbell** — 20421579
-    + [BIOL343_CC](https://github.com/EvaC315/Week03_CC2)
+    + [BIOL343_CC2](https://github.com/EvaC315/Week03_CC2)
 1.  **Adam New** — 20407310
-    + [BIOL343_CC](https://github.com/AdamNew1-tec/New-Repository)
+    + [BIOL343_CC2](https://github.com/AdamNew1-tec/New-Repository)
 1.  **Danica Rheault** — 20414884
-    + [BIOL343_CC](https://github.rheaultdanica/BIOL343_CC2)
+    + [BIOL343_CC2](https://github.rheaultdanica/BIOL343_CC2)
 
  
 
@@ -156,7 +156,7 @@ Your project folder is a GitHub repository (Chapter 6). Before you submit:
 1. Make sure the repository contains the `.Rmd`, `data/A1_Data_Excel.csv`, `images/` with your photo, and the knitted `.html`, and that everything is **committed and pushed**.
 1. Paste the **SHA** of your final commit (Chapter 6, *Timeline*; the 7-character code shown beside each commit on GitHub) below, formatted as in-line code with back-ticks.
 
-Final commit SHA: 
+Final commit SHA: 5207cb8
 
 # DO THIS LAST {-}
 
