@@ -18,3 +18,5 @@
 {"chunk":null,"ts":"2026-09-24T19:18:23Z","pid":9428,"engine":"r","severity":"error","render":false,"text":"## Error: \u001b[1m\u001b[22mProblem while computing stat.\n\u001b[36mℹ\u001b[39m Error occurred in the 1st layer.\n\u001b[1mCaused by error in `setup_params()`:\u001b[22m\n\u001b[1m\u001b[22m\u001b[33m!\u001b[39m `stat_bin()` must only have an \u001b[32mx\u001b[39m \u001b[3mor\u001b[23m \u001b[32my\u001b[39m aesthetic."}
 {"chunk":null,"ts":"2026-09-24T19:23:46Z","pid":9428,"engine":"r","severity":"error","render":false,"text":"## Error: \u001b[1m\u001b[22mCan't add `scale_x_discrete(labels = c(\"Asexual\", \"Sexual\"))` to a theme object."}
 {"chunk":null,"ts":"2026-09-24T19:34:34Z","pid":9428,"engine":"r","severity":"error","render":false,"text":"## Error: Syntax error: unexpected '>'"}
+{"chunk":null,"ts":"2026-09-25T14:18:01Z","pid":21036,"engine":"r","severity":"error","render":false,"text":"## Error: Syntax error: unexpected ','"}
+{"chunk":null,"ts":"2026-09-25T14:28:53Z","pid":21036,"engine":"r","severity":"error","render":false,"text":"## Error: Syntax error: unexpected '>'"}
